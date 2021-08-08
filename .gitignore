@@ -43,3 +43,4 @@ venv/
 set_env.sh
 bk/
 kubectl.exe
+var_windows.txt
