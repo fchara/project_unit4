@@ -44,3 +44,6 @@ set_env.sh
 bk/
 kubectl.exe
 var_windows.txt
+aws-secret.yaml
+env-secret.yaml
+env-configmap.yaml
